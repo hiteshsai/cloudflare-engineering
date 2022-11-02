@@ -1,0 +1,5 @@
+websockets
+click
+numpy
+urllib3
+validators
